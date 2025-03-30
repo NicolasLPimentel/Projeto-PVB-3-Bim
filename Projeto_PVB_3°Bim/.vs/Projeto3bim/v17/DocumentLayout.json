@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nickp\\source\\repos\\Projeto3bim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94C2FD6F-5BCC-452B-901A-79C2AC4CE84E}|Projeto3bim\\Projeto3bim.csproj|c:\\users\\nickp\\source\\repos\\projeto3bim\\projeto3bim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C2FD6F-5BCC-452B-901A-79C2AC4CE84E}|Projeto3bim\\Projeto3bim.csproj|solutionrelative:projeto3bim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C2FD6F-5BCC-452B-901A-79C2AC4CE84E}|Projeto3bim\\Projeto3bim.csproj|C:\\Users\\nickp\\source\\repos\\Projeto3bim\\projeto3bim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94C2FD6F-5BCC-452B-901A-79C2AC4CE84E}|Projeto3bim\\Projeto3bim.csproj|solutionrelative:projeto3bim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nickp\\source\\repos\\Projeto3bim\\Projeto3bim\\Form1.cs",
+              "RelativeDocumentMoniker": "Projeto3bim\\Form1.cs",
+              "ToolTip": "C:\\Users\\nickp\\source\\repos\\Projeto3bim\\Projeto3bim\\Form1.cs",
+              "RelativeToolTip": "Projeto3bim\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T20:53:38.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\nickp\\source\\repos\\Projeto3bim\\Projeto3bim\\Form1.cs",
+              "RelativeDocumentMoniker": "Projeto3bim\\Form1.cs",
+              "ToolTip": "C:\\Users\\nickp\\source\\repos\\Projeto3bim\\Projeto3bim\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Projeto3bim\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:25:55.34Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
